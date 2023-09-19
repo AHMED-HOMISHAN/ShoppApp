@@ -21,25 +21,25 @@ https://student.valuxapps.com/api/
   # Screen Shots
 
   ## Login Screen
-  ![LoginScreen](https://github.com/Ahmed-Humishan/ShoppApp/assets/111582706/f92a3cdd-307a-453f-bb43-ca237e801ba0)
+<img src="https://github.com/Ahmed-Humishan/ShoppApp/assets/111582706/f92a3cdd-307a-453f-bb43-ca237e801ba0" width=300>
 
   ## SignUp Screen
-  ![SignUpScreen](https://github.com/Ahmed-Humishan/ShoppApp/assets/111582706/fcb655f1-b1f3-470f-8c2f-3a413b8f37b1)
+<img src="https://github.com/Ahmed-Humishan/ShoppApp/assets/111582706/fcb655f1-b1f3-470f-8c2f-3a413b8f37b1" width=300>
 
   ## Home Screen
-  ![HomeScreen](https://github.com/Ahmed-Humishan/ShoppApp/assets/111582706/810d0ad3-face-4411-a8a1-81949606b69c)
+<img src="https://github.com/Ahmed-Humishan/ShoppApp/assets/111582706/810d0ad3-face-4411-a8a1-81949606b69c" width=300>
 
   ## Category Screen
-  ![CategoryScreen](https://github.com/Ahmed-Humishan/ShoppApp/assets/111582706/7c25bfd9-8443-4385-93c4-6ae4b4dce9f9)
+<img src="https://github.com/Ahmed-Humishan/ShoppApp/assets/111582706/7c25bfd9-8443-4385-93c4-6ae4b4dce9f9" width=300>
 
   ## Favorite Screen
-  ![FavoriteScreen](https://github.com/Ahmed-Humishan/ShoppApp/assets/111582706/4161c7ee-bba8-4d85-9e2c-861a3efa393f)
+<img src="https://github.com/Ahmed-Humishan/ShoppApp/assets/111582706/4161c7ee-bba8-4d85-9e2c-861a3efa393f" width=300>
 
   ## Setting Screen
-  ![SettingScreen](https://github.com/Ahmed-Humishan/ShoppApp/assets/111582706/8ada48e4-13f6-4220-9be9-92c5dd83410f)
+  <img src="https://github.com/Ahmed-Humishan/ShoppApp/assets/111582706/8ada48e4-13f6-4220-9be9-92c5dd83410f" width=300>
 
   ## Search Screen
-  ![SearchScreen](https://github.com/Ahmed-Humishan/ShoppApp/assets/111582706/bec54035-3af8-46aa-b192-b0fa7e8095a1)
+<img src="https://github.com/Ahmed-Humishan/ShoppApp/assets/111582706/bec54035-3af8-46aa-b192-b0fa7e8095a1" width=300>
 
 
 ## Getting Started
